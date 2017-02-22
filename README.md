@@ -28,9 +28,15 @@ In your code, simply require/import the module:
 ```JS
 import Timer from 'react-native-declarative-timer';
 
-...
+//  ...
 
 <Timer func={funcToExecute} interval={60} />
+
+//  or wrap any single component (has no additional purpose, yet!)
+
+<Timer func={funcToExecute} interval={60}>
+    ...
+</Timer>
 ```
 
 ## <a name='properties'>Properties</a>
