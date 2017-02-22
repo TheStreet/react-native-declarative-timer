@@ -17,7 +17,7 @@ Declaratively create timers in your components. <a name='top'/>
 Install the module with:
 
 
-```
+```JS
 npm install react-native-declarative-timer --save
 ```
 
@@ -25,11 +25,11 @@ npm install react-native-declarative-timer --save
 ---
 In your code, simply require/import the module:
 
-```
+```JS
 import Timer from 'react-native-declarative-timer';
-```
 
-```
+...
+
 <Timer func={funcToExecute} interval={60} />
 ```
 
