@@ -1,0 +1,26 @@
+{
+  "name": "react-native-declarative-timer",
+  "version": "0.0.1",
+  "description": "Declaratively create timers in your components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheStreet/react-native-declarative-timer.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "timer",
+    "timers",
+    "declarative"
+  ],
+  "author": "Johan du Toit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheStreet/react-native-declarative-timer/issues"
+  },
+  "homepage": "https://github.com/TheStreet/react-native-declarative-timer#readme"
+}
