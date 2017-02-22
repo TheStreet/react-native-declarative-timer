@@ -4,7 +4,6 @@ Declaratively create timers in your components.
 [![NPM Version](https://img.shields.io/npm/v/react-native-declarative-timer.svg?style=flat)](https://www.npmjs.com/package/react-native-declarative-timer)
 [![NPM Downloads](https://img.shields.io/npm/dm/react-native-declarative-timer.svg?style=flat)](https://www.npmjs.com/package/react-native-declarative-timer)
 
----
 <a name='top'/>
 
 ## Quick Access
