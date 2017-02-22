@@ -13,7 +13,6 @@ Declaratively create timers in your components. <a name='top'/>
 * <a href='#contributing'>Contributing</a>
 
 ## <a name='install'>Installation</a>
----
 Install the module with:
 
 
@@ -22,7 +21,6 @@ npm install react-native-declarative-timer --save
 ```
 
 ## <a name='usage'>Usage</a>
----
 In your code, simply require/import the module:
 
 ```JS
