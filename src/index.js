@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 class Timer extends React.Component {
     componentWillMount() {
@@ -22,8 +23,8 @@ class Timer extends React.Component {
 }
 
 Timer.propTypes = {
-    interval: React.PropTypes.number.isRequired,
-    func: React.PropTypes.func.isRequired
+    interval: PropTypes.number.isRequired,
+    func: PropTypes.func.isRequired
 };
 
 Timer.defaultProps = {

@@ -1,6 +1,6 @@
 {
   "name": "react-native-declarative-timer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Declaratively create timers in your components",
   "main": "index.js",
   "scripts": {
